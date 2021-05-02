@@ -1,4 +1,4 @@
-[I'm an inline-style link](https://cocky-benz-450ccd.netlify.app/)
+[link](https://cocky-benz-450ccd.netlify.app/)
 
 # Getting Started with Create React App
 
