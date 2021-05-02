@@ -1,3 +1,5 @@
+[I'm an inline-style link](https://cocky-benz-450ccd.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
